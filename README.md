@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zohreh
 - 👀 I’m interested in code, cook, music
-- 🌱 I’m currently learning golang
+- 🌱 I’m currently learning solidity
 
 
 <!---
