@@ -1,9 +1,16 @@
-- 👋 Hi, I’m Zohreh
-- 👀 I’m interested in code, cook, music
-- 🌱 I’m currently learning solidity
+# Hi, I'm Zohreh,
 
+Senior Backend Engineer with 9 years building fintech systems and AI-powered products.
 
-<!---
-zm70/zm70 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Currently leading technical strategy at **Webpulse AI** — integrating LLMs to automate workflows for the construction industry.
+
+Previously scaled backend systems to **1M+ users** at a crypto exchange, and owned all payment infrastructure at a B2B SaaS.
+
+## What I work with
+Node.js · TypeScript · Microservices · MySQL · Redis · Docker · LLM integration
+
+## Currently exploring
+Agentic workflows · AI automation pipelines · RAG systems
+
+## Get in touch
+[LinkedIn](https://linkedin.com/in/zohreh--moradi)
